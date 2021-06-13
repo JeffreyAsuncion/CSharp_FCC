@@ -1,0 +1,16 @@
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/CSharp_FCC
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/CSharp_FCC.deps.json
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/CSharp_FCC.runtimeconfig.json
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/CSharp_FCC.runtimeconfig.dev.json
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/CSharp_FCC.dll
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/ref/CSharp_FCC.dll
+/home/jepoy/Documents/Projects/github/CSharp_FCC/bin/Debug/net5.0/CSharp_FCC.pdb
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.csproj.AssemblyReference.cache
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.GeneratedMSBuildEditorConfig.editorconfig
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.AssemblyInfoInputs.cache
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.AssemblyInfo.cs
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.csproj.CoreCompileInputs.cache
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.dll
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/ref/CSharp_FCC.dll
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.pdb
+/home/jepoy/Documents/Projects/github/CSharp_FCC/obj/Debug/net5.0/CSharp_FCC.genruntimeconfig.cache

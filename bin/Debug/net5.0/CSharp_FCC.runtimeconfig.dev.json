@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/jepoy/.dotnet/store/|arch|/|tfm|",
+      "/home/jepoy/.nuget/packages"
+    ]
+  }
+}
